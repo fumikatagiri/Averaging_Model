@@ -2,7 +2,7 @@
 
 This repository is for supplemental datasets in "An averaging model for analysis and interpretation of high-order genetic interactions".
 
-Supplemental Dataset 1. A folder containing four bacterial count data files (tab-delimited text) for “AvrRpt2_ETI”, “AvrRpm1_ETI”, “flg22_PTI”, and “elf18_PTI”. Each has columns of genotype, treatment, replicate, flat, pot, and colony. The colony column has log10-transformed colony counts (colony forming unit/cm2). Although the summerized data were originally reported in Tsuda et al. 2009: https://doi.org/10.1371/journal.pgen.1000772, these raw data were not published.
+Supplemental Dataset 1. A folder containing four bacterial count data files (tab-delimited text) for “AvrRpt2_ETI”, “AvrRpm1_ETI”, “flg22_PTI”, and “elf18_PTI”. Each has columns of genotype, treatment, replicate, flat, pot, and colony. The colony column has log10-transformed colony counts (colony forming unit/cm2). Although the summarized data were originally reported in Tsuda et al. 2009: https://doi.org/10.1371/journal.pgen.1000772, these raw data were not published.
 
 Supplemental Dataset 2. A .RData file (R workspace file) containing a list object, “ave.model.mats”, which contains the matrices for the averaging model for 2- to 7-gene systems (equivalents of matrix in Fig. TS1.1 in Text S1 for different number-gene systems).
 
